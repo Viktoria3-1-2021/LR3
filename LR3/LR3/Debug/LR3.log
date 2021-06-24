@@ -1,0 +1,6 @@
+﻿  LR3.cpp
+C:\Users\vika-\source\repos\LR3\LR3\LR3.cpp(124,22): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\vika-\source\repos\LR3\LR3\LR3.cpp(128,17): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\vika-\source\repos\LR3\LR3\LR3.cpp(133,63): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\vika-\source\repos\LR3\LR3\LR3.cpp(133,36): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  LR3.vcxproj -> C:\Users\vika-\source\repos\LR3\Debug\LR3.exe
